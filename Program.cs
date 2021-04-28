@@ -11,7 +11,8 @@ namespace LeetCode
         static void Main(string[] args)
         {
             //两数相加.Test();
-            无重复字符的最长子串.Test();
+            //无重复字符的最长子串.Test();
+            归并排序.Test();
         }
     }
 }
